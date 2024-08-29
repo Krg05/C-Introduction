@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8faf6066-893e-49de-bb99-df799f073c60}</ProjectGuid>
-    <RootNamespace>수업16</RootNamespace>
+    <ProjectGuid>{80ab1429-33a4-4429-9154-069cfe606f7a}</ProjectGuid>
+    <RootNamespace>수업17</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,11 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="수업 16-유틸어레이.c" />
-    <ClCompile Include="수업 16.c" />
+    <ClCompile Include="수업 17-유틸어레이.c" />
+    <ClCompile Include="수업 17.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="수업 16.h" />
+    <ClInclude Include="수업 17.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
